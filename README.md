@@ -9,15 +9,16 @@ The movie booked by the user will be stored in database and is retrived and show
 
 #### Overall UI of the app.
 
-![App Screenshot](https://snipboard.io/ndabqU.jpg)
+<img width="790" alt="Capture1" src="https://github.com/rushikeshwaghmode/Almabetter-Project/assets/145100116/b61ce443-76a3-4afb-ae54-fd939ee8f496">
+
 
 #### Getting confirmations from server.
 
-![App Screenshot](https://snipboard.io/fl8vd3.jpg)
+
+<img width="782" alt="Capture2" src="https://github.com/rushikeshwaghmode/Almabetter-Project/assets/145100116/18b37271-bb1b-431f-a411-60653402d60c">
 
 #### Information about previous booking details.
-
-![App screenshot](https://snipboard.io/pgXsoQ.jpg)
+<img width="786" alt="Capture3" src="https://github.com/rushikeshwaghmode/Almabetter-Project/assets/145100116/feefdde6-3b96-4205-8f3f-13f3ee4f6acb">
 
 
 ## Technologies that are used.
@@ -28,12 +29,6 @@ The movie booked by the user will be stored in database and is retrived and show
     Used for making api calls.
 - #### Mongo db
 - #### Deployed using netlify.
-
-The documentation for the backend - [Documentation](https://github.com/Shankar2612/BookMyShow-Backend)
-
-
-
-
 
 #### Contributions are always welcome!
 
