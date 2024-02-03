@@ -4,7 +4,7 @@ The Aim of this project is to Select movie , Time slot and Book seats and show b
 
 The movie booked by the user will be stored in database and is retrived and shown to the user.
 
-## Link to website -> [BookMyShow](https://bookmyshow-almabetter2022.netlify.app/)
+## Link to website -> https://clinquant-peony-a9d485.netlify.app/
 
 
 #### Overall UI of the app.
