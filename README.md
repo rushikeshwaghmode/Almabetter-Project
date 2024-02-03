@@ -26,6 +26,8 @@ The movie booked by the user will be stored in database and is retrived and show
     This app is fully built on top of react library.
 - #### Axios 
     Used for making api calls.
+- #### Mongo db
+- #### Deployed using netlify.
 
 The documentation for the backend - [Documentation](https://github.com/Shankar2612/BookMyShow-Backend)
 
