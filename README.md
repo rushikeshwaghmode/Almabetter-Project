@@ -1,6 +1,6 @@
 # Book my show..
 
-This is a demo of real bookmyshow, where the user can book a movie with specified seats at a specified slot and get a confirmation that, wheteher booking was sucessful or not.
+The Aim of this project is to Select movie , Time slot and Book seats and show booking was sucessful or not. It is dummy project of Book my show .
 
 The movie booked by the user will be stored in database and is retrived and shown to the user.
 
